@@ -8,7 +8,7 @@ const HomePage = () => {
       <div className="w-1/2 text-right text-gray-950 m-200">
         <div className="flex-col p-10 m-10">
           <div className="text-5xl font-bold">
-            <h1>{"Hi, I'm Aditya"}</h1>
+            <h1>{"Hi, I'm Aditya!"}</h1>
           </div>
           <div className="text-5xl">
             <p>{"Builder of things."}</p>
